@@ -1,0 +1,25 @@
+:root{
+  --color1: rgb(255, 187, 0);
+  --color2: rgba(22, 219, 98, 0.877);
+  --color3: rgba(12, 214, 233, 0.623);
+  --fondo: #f2f2f2;
+  --titulos: 33px;
+  --margenes: 60px;
+  --espacios: 10px;
+  --espacios-contenido:45px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'open sans';
+  background: var(--fondo);
+}
+
+img{
+  vertical-align: top;
+}

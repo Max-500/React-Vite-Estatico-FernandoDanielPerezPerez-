@@ -1,0 +1,26 @@
+footer{background-image:url(../img/teclado.jpg);}
+
+.marca-logo{
+  width: 40%;
+  margin: auto;
+  margin-bottom: var(--espacios);
+}
+.marca-logo img{
+  width: 100%;
+}
+.iconos{
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+  width: 100%;
+}
+.fab{
+  font-size:60px;
+  color: #FFF;
+  margin-bottom: var(--espacios);
+  display: inline-block;
+}
+
+footer p{
+  margin-top:var(--espacios);
+}

@@ -1,0 +1,13 @@
+.Content{
+    margin: 120px ;
+    text-align: center;
+    justify-content: center;
+    color: (--color2);
+}
+
+h1,h2,h3{
+    margin-top: 8px;
+    font-weight: 300;
+    color: var(--color2);
+}
+
